@@ -56,11 +56,10 @@ Arduino → LED Control → Timing Signal → NI ELVIS
 - LED-based score visualization
 - Full octave expansion with black keys
 
-## 📷 Demonstration
-(Insert project images here)
-
 ## 📂 Project Structure
-- /Arduino_Code
-- /LabVIEW_Files
-- /Documentation
-- /Images
+- code/ # Arduino and LabVIEW source code
+- diagram/ # System architecture diagrams and structural drawings
+- README.md # Project documentation
+- LICENSE # License information
+- .gitignore # Git ignore configuration
+- Design_Report.pdf # Full project report
